@@ -24,3 +24,7 @@
 ### Honda Accord:
 
 - https://www.facebook.com/marketplace/item/204078500707653/
+
+### Honda Fit:
+
+- https://www.facebook.com/marketplace/item/250400282777729/
