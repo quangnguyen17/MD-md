@@ -1,4 +1,7 @@
-# AMD Build
+# PC_BUILD
+
+- Desc: An AMD Build
+- Budget: under `$500`
 
 ## Components: 
 
@@ -9,4 +12,4 @@
 - Power Supply:
 - Case: https://www.bhphotovideo.com/c/product/1560149-REG/cooler_master_mcb_e300l_kn5n_b01_masterbox_e300l_matx_tower.html/?ap=y&ap=y&smp=y&smp=y&lsft=BI%3A514&gclid=Cj0KCQjwz4z3BRCgARIsAES_OVff89zH6iDaLOYyrTTGRONDGXbMHF3v6MVEsSTvJqL-_7AOdbVUwZsaApjOEALw_wcB
  
-### Total : `$`
+### Total : `$0.00`
