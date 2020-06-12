@@ -17,4 +17,4 @@
 | Power Supply: Insignia™ - 450W ATX12V 2.4/EPS12V 2.92 80 Plus Power Supply | `$44.99`  | https://www.bestbuy.com/site/insignia-450w-atx12v-2-4-eps12v-2-92-80-plus-power-supply-gray/5976300.p?skuId=5976300&ref=212&loc=1&extStoreId=1119&ref=212&loc=1&gclid=Cj0KCQjwz4z3BRCgARIsAES_OVeLPJ3QtYHvYH7tGL6gtQYyBkVBM9flBnsw0ePkgyMzXbI_7brWrEQaArxdEALw_wcB&gclsrc=aw.ds |
 | Case: Cooler Master MasterBox E300L Mini-Tower Case (Blue Trim)            | `$39.99`  | https://www.bhphotovideo.com/c/product/1560149-REG/cooler_master_mcb_e300l_kn5n_b01_masterbox_e300l_matx_tower.html/?ap=y&ap=y&smp=y&smp=y&lsft=BI%3A514&gclid=Cj0KCQjwz4z3BRCgARIsAES_OVeQQgaMrd22_Q9S8q21iI6cf5j1mhgKht2egZQ09ok0uKr8M1DSmogaAgTmEALw_wcB                     |
 
-## Build Total (Tax not included) : `$444.02`
+### Build Total (Tax not included) : `$444.02`
