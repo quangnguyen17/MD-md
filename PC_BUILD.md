@@ -1,4 +1,4 @@
-# My First Custom PC Build
+# AMD Build
 
 ## Components: 
 
