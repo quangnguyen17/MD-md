@@ -17,4 +17,4 @@
 | Graphics Card   | N/A (An old graphics card is enough)                                                         | Used      | Max: `$100` |
 | Power Supply    | N/A (An old power supply is enough)                                                          | Used      | Max: `$20`  |
 | Case            | N/A (An old case is enough)                                                                  | Used      | Max: `$20`  |
-| Total:          | `$447.96`                                                                                    |
+| **Total**       |                                                                                              |           | `$447.96`   |
