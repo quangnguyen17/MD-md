@@ -2,7 +2,7 @@
 
 ### Intel Build
 
-| Component       | Picked Component                                     | Condition | Price Range |
+| Component       | Selected Component                                     | Condition | Price Range |
 | --------------- | ---------------------------------------------------- | --------- | ----------- |
 | Motherboard     | N/A                                                  | N/A       | `$0.00`     |
 | Processor (CPU) | N/A                                                  | N/A       | `$0.00`     |
