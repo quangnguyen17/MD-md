@@ -1,8 +1,6 @@
 # PC Builds
 
-- Custom Builds 
-
-### Build 1 (Intel-based)
+### Intel Build
 
 | Component       | Picked Component                                     | Condition | Price Range |
 | --------------- | ---------------------------------------------------- | --------- | ----------- |
@@ -15,7 +13,7 @@
 | Case            | N/A _(can get a used one from Facebook Marketplace)_ | N/A       | `$0.00`     |
 | **Total**       |                                                      |           | `$0.00`     |
 
-### Build 2 (AMD-based)
+### AMD Build
 
 | Component       | Selected Component                                                                             | Condition | Price Range |
 | --------------- | -------------------------------------------------------------------------------------------- | --------- | ----------- |
