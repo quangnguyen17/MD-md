@@ -1,5 +1,7 @@
 # PC Builds
 
+- Custom Builds 
+
 ### Build 1 (Intel-based)
 
 | Component       | Picked Component                                     | Condition | Price Range |
@@ -13,9 +15,9 @@
 | Case            | N/A _(can get a used one from Facebook Marketplace)_ | N/A       | `$0.00`     |
 | **Total**       |                                                      |           | `$0.00`     |
 
-### Build 2 (AMD-based) - Finished
+### Build 2 (AMD-based)
 
-| Component       | Picked Component                                                                             | Condition | Price Range |
+| Component       | Selected Component                                                                             | Condition | Price Range |
 | --------------- | -------------------------------------------------------------------------------------------- | --------- | ----------- |
 | Motherboard     | ASUS A320M-K Prime AMD AM4 mATX Motherboard                                                  | New       | `$59.99`    |
 | Processor (CPU) | AMD Ryzen 3 3200G 3.6 GHz Quad-Core AM4 Processor                                            | New       | `$87.99`    |
