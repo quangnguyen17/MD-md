@@ -15,13 +15,13 @@
 
 ### AMD Build
 
-| Component       | Selected Component                                                                             | Condition | Price     |
-| --------------- | ---------------------------------------------------------------------------------------------- | --------- | --------- |
-| Motherboard     | ASUS A320M-K Prime AMD AM4 mATX Motherboard                                                    | New       | `$59.99`  |
-| Processor (CPU) | Used AMD Ryzen™ 7 2700 Processor                                                               | Used      | `$120`    |
-| Memory (RAM)    | TeamGroup T-FORCE VULCAN Z 16GB (2 x 8GB) DDR4-3200 PC4-25600 CL16 Dual Channel Desktop Memory | New       | `$59.99`  |
-| Storage (SSD)   | Inland Professional 1TB 3D QLC NAND PCIe Gen 3 x4 NVMe M.2 Internal SSD                        | New       | `$99.99`  |
-| Graphics Card   | Used Radeon™ RX 560                                                                            | Used      | `$80`     |
-| Power Supply    | Used AZZA Platinum 850-Watt 80+ Platinum Power Supply (PSAZ-850PT14)                           | Used      | `$30`     |
-| Case            | Used Generic Case                                                                              | Used      | `$15`     |
-| **Total**       |                                                                                                |           | `$464.97` |
+| Component       | Selected Component                                                                           | Condition | Price     |
+| --------------- | -------------------------------------------------------------------------------------------- | --------- | --------- |
+| Motherboard     | ASUS A320M-K Prime AMD AM4 mATX Motherboard                                                  | New       | `$59.99`  |
+| Processor (CPU) | AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics                                              | New       | `$87.99`  |
+| Memory (RAM)    | OLOy DDR4 RAM 16GB (2x8GB) 3000 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM (MD4U083016BJDA) | New       | `$59.99`  |
+| Storage (SSD)   | Samsung 860 QVO 1TB SSD 4-bit QLC V-NAND SATA III 6Gb/s 2.5" Internal Solid State Drive      | New       | `$95.36`  |
+| Graphics Card   | N/A                                                                                          | N/A       | `$0.00`   |
+| Power Supply    | Used AZZA Platinum 850-Watt 80+ Platinum Power Supply (PSAZ-850PT14)                         | Used      | `$30`     |
+| Case            | Used Generic Case                                                                            | Used      | `$15`     |
+| **Total**       | `$168.04` (Motherboard + SSD) + `$159.45` (CPU + RAM) + `$45` (Case + PSU)                   |           | `$372.49` |
