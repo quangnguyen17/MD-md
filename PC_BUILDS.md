@@ -26,5 +26,5 @@
 | Graphics Card   | Used XFX AMD Radeon™ RX 560 4GB Single Fan                                                                        | Used      | `$60`                 |
 | Power Supply    | Used AZZA Platinum 850-Watt 80+ Platinum Power Supply (PSAZ-850PT14)                                              | Used      | `$30`                 |
 | Case            | Used Generic Case                                                                                                 | Used      | `$15`                 |
-| Miscellaneous   | Wifi Card, PC Fan                                                                                                 | Used      | `$37.49`              |
-| **Total**       | `$168.04` (Motherboard + SSD), `$159.45` (CPU + RAM), `$60` (GPU), `$37.49` (Wifi Card + Fan), `$45` (Case + PSU) |           | `$469.98` (After tax) |
+| Miscellaneous   | TP-LINK AC1200 Wi-FI 5 Dual Band PCI-e Wireless Adapter with Bluetooth 4.2, Led Case Fan                          | New       | `$37.49`              |
+| **Total**       | `$168.04` (Motherboard + SSD), `$159.45` (CPU + RAM), `$60` (GPU), `$45.23` (Wifi Card + Fan), `$45` (Case + PSU) |           | `$477.72` (After tax) |
