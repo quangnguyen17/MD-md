@@ -1,4 +1,4 @@
-# PC_SPECS
+# SPECS
 
 ## AMD Build's Specs:
 
@@ -14,3 +14,5 @@
 - Miscellaneous: `Generic Case`, `Cooler Master Silent 140mm LED Fan`.
 
 ## Intel Build Specs:
+
+-
