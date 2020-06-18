@@ -6,6 +6,7 @@
 - Motherboard: `ASUS A320M-K Prime AMD AM4 mATX Motherboard`.
 - Processor (CPU): `AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics`.
 - CPU Cooler: `AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)`.
+- GPU: `Integrated Radeon™ Vega 8 Graphics`.
 - Memory (RAM): `OLOy DDR4 RAM 16GB (2x8GB) 3000 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM`.
 - Storage (SSD): `Samsung - 860 QVO 1TB Internal SATA Solid State Drive with V-NAND Technology`.
 - Networking / Wireless Capability: `Ethernet`, `Wifi 5`, `Bluetooth 4.2`.
