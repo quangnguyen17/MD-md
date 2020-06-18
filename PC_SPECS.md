@@ -1,6 +1,6 @@
 # PC_SPECS
 
-## AMD Build Specs:
+## AMD Build's Specs:
 
 - Motherboard: `ASUS A320M-K Prime AMD AM4 mATX Motherboard`.
 - Processor: `AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics`.
