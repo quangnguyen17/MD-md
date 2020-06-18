@@ -10,6 +10,6 @@
 - Networking / Wireless Capability: `Ethernet`, `Wifi 5`, `Bluetooth 4.2`.
 - Wifi Card: `TP-LINK AC1200 Wi-FI 5 Dual Band PCI-e Wireless Adapter with Bluetooth 4.2`.
 - Power Supply: `AZZA Platinum 850-Watt 80+ Platinum Power Supply`.
-- Miscellaneous: `Generic Case`, `Cooler Master Silent 140mm LED Fan`, .
+- Miscellaneous: `Generic Case`, `Cooler Master Silent 140mm LED Fan`.
 
 ## Intel Build Specs:
