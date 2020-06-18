@@ -11,7 +11,7 @@
 - Networking / Wireless Capability: `Ethernet`, `Wifi 5`, `Bluetooth 4.2`.
 - Wifi Card: `TP-LINK AC1200 Wi-FI 5 Dual Band PCI-e Wireless Adapter with Bluetooth 4.2`.
 - Power Supply: `AZZA Platinum 850-Watt 80+ Platinum Power Supply`.
-- Miscellaneous: `AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)`, `Cooler Master Silent 140mm LED Fan`, `Generic Case`.
+- Miscellaneous: `AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)`, `Cooler Master Silent 140mm Green LED Fan`, `Generic Case`.
 
 ## Intel Build Specs:
 
