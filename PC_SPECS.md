@@ -2,6 +2,7 @@
 
 ## AMD Build's Specs:
 
+- Operating System: `Windows 10 Pro`.
 - Motherboard: `ASUS A320M-K Prime AMD AM4 mATX Motherboard`.
 - Processor (CPU): `AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics`.
 - CPU Cooler: `AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)`.
