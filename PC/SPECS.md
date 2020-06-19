@@ -1,8 +1,10 @@
 # SPECS
 
+- My Setups
+
 ## AMD Build's Specs:
 
-- Operating System: `Windows 10 Pro`.
+- Operating Systems (Dual OS): `Windows 10 Pro` AND `Ubuntu 20.04 LTS`.
 - Motherboard: `ASUS A320M-K Prime AMD AM4 mATX Motherboard`.
 - Processor (CPU): `AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics`.
 - Graphics Card (GPU // Dual Graphics): `Radeon™ Vega 8 Graphics` AND `Gigabyte GeForce GTX 970 G1 Gaming GDDR5 Pcie Video Graphics Card, 4GB`.
