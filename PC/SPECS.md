@@ -2,7 +2,7 @@
 
 - My Setups
 
-## AMD Build's Specs:
+## AMD Build:
 
 - Operating Systems (Dual Boot): `Windows 10 Pro` AND `Ubuntu 20.04 LTS`.
 - Motherboard: `ASUS A320M-K Prime AMD AM4 mATX Motherboard`.
@@ -15,6 +15,6 @@
 - Power Supply: `AZZA Platinum 850-Watt 80+ Platinum Power Supply`.
 - Miscellaneous: `AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)` AND `Cooler Master Silent 140mm Green LED Fan` AND `Generic Case`.
 
-## Intel Build Specs:
+## Intel Build:
 
--
+- N/A
