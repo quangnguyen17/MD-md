@@ -4,7 +4,7 @@
 
 ## AMD Build's Specs:
 
-- Operating Systems (Dual OS): `Windows 10 Pro` AND `Ubuntu 20.04 LTS`.
+- Operating Systems (Dual Boot): `Windows 10 Pro` AND `Ubuntu 20.04 LTS`.
 - Motherboard: `ASUS A320M-K Prime AMD AM4 mATX Motherboard`.
 - Processor (CPU): `AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics`.
 - Graphics Card (GPU // Dual Graphics): `Radeon™ Vega 8 Graphics` AND `Gigabyte GeForce GTX 970 G1 Gaming GDDR5 Pcie Video Graphics Card, 4GB`.
@@ -13,7 +13,7 @@
 - Networking // Wireless Capability: `Ethernet`, `Wifi 5`, `Bluetooth 4.2`.
 - Wifi Card: `TP-LINK AC1200 Wi-FI 5 Dual Band PCI-e Wireless Adapter with Bluetooth 4.2`.
 - Power Supply: `AZZA Platinum 850-Watt 80+ Platinum Power Supply`.
-- Miscellaneous: `AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)`, `Cooler Master Silent 140mm Green LED Fan`, `Generic Case`.
+- Miscellaneous: `AMD Wraith Stealth Socket AM4 4-Pin Connector CPU Cooler with Aluminum Heatsink & 3.93-Inch Fan (Slim)` AND `Cooler Master Silent 140mm Green LED Fan` AND `Generic Case`.
 
 ## Intel Build Specs:
 
