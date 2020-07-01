@@ -1,4 +1,4 @@
-# Latitude Project
+# LATITUDE Projects
 
 #### 1. Dell Latitude E3470
 
