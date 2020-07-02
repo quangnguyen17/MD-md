@@ -9,7 +9,7 @@
 - Memory (RAM): ``.
 - Storage (SSD): ``.
 
-##### Cost:
+##### Investment & Sales:
 
 - Computer: `$150`.
 - Memory (RAM): `$66.58`.
@@ -27,7 +27,7 @@
 - Storage (HDD): `HGST 1TB SATA 6Gb/s`.
 - Warranty Information: `ProSupport • Expires 20 JAN 2021`, Service Tag: `243BH72`, Express Service Code: `4601003726`.
 
-##### Cost:
+##### Investment & Sales:
 
 - Computer: `$129.26`.
 - Battery: `$42.01`.
