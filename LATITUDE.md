@@ -6,8 +6,8 @@
 
 - Operating System (OS): `Windows 10 Professional`.
 - Processor (CPU): `Intel® Core™ i5-4210U Processor`.
-- Memory (RAM): ` `.
-- Storage (SSD): ` `.
+- Memory (RAM): ``.
+- Storage (SSD): ``.
 
 ##### Cost:
 
