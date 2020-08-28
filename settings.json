@@ -3,7 +3,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "editor.formatOnSave": true,
   "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 12,
+  "editor.fontSize": 13,
   "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "none",
@@ -14,5 +14,11 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "prettier.singleQuote": false,
-  "window.zoomLevel": 0
+  "window.zoomLevel": 0,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\bash.exe",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "emmet.excludeLanguages": ["markdown"],
+  "git.enableSmartCommit": true
 }
