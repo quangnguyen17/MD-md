@@ -1,7 +1,7 @@
 # BUILDS
 
 - All of my PC builds.
-- AMD Builds only, no Intel.
+- Only AMD builds included, no Intel.
 - Used parts are being used in most of the builds, usually are pretty hard to find and can easily be found on sites like Craiglist, Facebook Marketplace, Offerup, Letgo.
 
 #### Build 1:
