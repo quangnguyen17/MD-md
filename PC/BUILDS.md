@@ -1,30 +1,16 @@
 # BUILDS
 
-### Intel Build
+##### Build 1:
 
-| Component       | Selected Component | Condition | Price   |
-| --------------- | ------------------ | --------- | ------- |
-| Motherboard     | N/A                | N/A       | `$0.00` |
-| Processor (CPU) | N/A                | N/A       | `$0.00` |
-| Memory (RAM)    | N/A                | N/A       | `$0.00` |
-| Storage (SSD)   | N/A                | N/A       | `$0.00` |
-| Graphics Card   | N/A                | N/A       | `$0.00` |
-| Power Supply    | N/A                | N/A       | `$0.00` |
-| Case            | N/A                | N/A       | `$0.00` |
-| **Total**       |                    |           | `$0.00` |
+- MOBO: MSI B450M GAMING PLUS (`$60`)
+- CPU: AMD Ryzen™ 5 2600 with AMD Wraith Prism Cooler (`$70`)
+- GPU: WindForce GeForce GTX 970 4GB WINDFORCE 3X OC (`$10`)
+- RAM: OLOy DDR4 RAM 16GB (2x8GB) 3000 MHz (`$59.99`)
+- PSU: AZZA Platinum 850-Watt 80+ Platinum (`$30`)
+- SSD: Samsung 860 QVO 1TB SSD 4-bit QLC V-NAND SATA III (`$95.36`)
+- HDD: AZZA Platinum 850-Watt 80+ Platinum Power Supply (`$10`)
+- Case: MASTERBOX PRO 5 RGB (`$40`)
 
-### AMD Build
+##### Build 2:
 
-- Primary Components Table:
-
-| Component       | Selected Component                                                                                          | Condition | Price                 |
-| --------------- | ----------------------------------------------------------------------------------------------------------- | --------- | --------------------- |
-| Motherboard     | ASUS A320M-K Prime AMD AM4 mATX Motherboard                                                                 | New       | `$59.99`              |
-| Processor (CPU) | AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics                                                             | New       | `$87.99`              |
-| Memory (RAM)    | OLOy DDR4 RAM 16GB (2x8GB) 3000 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM (MD4U083016BJDA)                | New       | `$59.99`              |
-| Storage (SSD)   | Samsung 860 QVO 1TB SSD 4-bit QLC V-NAND SATA III 6Gb/s 2.5" Internal Solid State Drive                     | New       | `$95.36`              |
-| Graphics Card   | Gigabyte GeForce GTX 970 G1 Gaming GDDR5 Pcie Video Graphics Card, 4GB.                                     | Used      | `$10`                 |
-| Power Supply    | Used AZZA Platinum 850-Watt 80+ Platinum Power Supply (PSAZ-850PT14)                                        | Used      | `$30`                 |
-| Case            | Used Generic Case                                                                                           | Used      | `$15`                 |
-| Miscellaneous   | TP-LINK AC1200 Wi-FI 5 Dual Band PCI-e Wireless Adapter with Bluetooth 4.2                                  | New       | `$37.49`              |
-| **Total**       | `$168.04` (Motherboard + SSD), `$159.45` (CPU + RAM), `$37.49` (Wifi Card), `$45` (Case + PSU), `$10` (GPU) |           | `$419.98` (After tax) |
+##### Build 3:
