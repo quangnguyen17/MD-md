@@ -12,7 +12,7 @@
 - Case: *USED* MASTERBOX PRO 5 RGB (`$40`)
 - **TOTAL: `$375.35`**
 
-##### Build 2:
+#### Build 2:
 
 - MOBO: *NEW* ASUS Prime A320M-K (`$59.99`)
 - CPU: *NEW* AMD Ryzen™ 3 3200G with AMD Wraith Stealth Cooler (`$87.99`)
@@ -24,4 +24,4 @@
 - Case: *USED* Generic Case (`$10`)
 - **TOTAL: `$232.96`**
 
-##### Build 3:
+#### Build 3:
