@@ -2,19 +2,15 @@
 
 ### Tutorials (From A - Z):
 
-1. Learn Javascript:
+- Basic:
+   1. Learn JavaScript - Full Course for Beginners: https://www.youtube.com/watch?v=PkZNo7MFNFg
+   2. JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2020]: https://www.youtube.com/watch?v=W6NZfCO5SIk
+   3. Node.js Crash Course: https://www.youtube.com/watch?v=fBNz5xF-Kx4
+   4. Node.js Ultimate Beginner’s Guide in 7 Easy Steps: https://www.youtube.com/watch?v=ENrzD9HAZK4&t=89s
 
-   - https://www.youtube.com/watch?v=PkZNo7MFNFg
-   - https://www.youtube.com/watch?v=W6NZfCO5SIk
-
-2. Learn Node:
-
-   - https://www.youtube.com/watch?v=Qt3ZABW5lD0
-   - https://www.youtube.com/watch?v=fBNz5xF-Kx4
-
-3. Learn Tensorflow.js (through a youtube series):
-
-   - https://www.youtube.com/watch?v=D-XzAeVvMkg
+- Machine Learning:
+   1. TensorFlow.js Quick Start: https://www.youtube.com/watch?v=Y_XM3Bu-4yc
+   2. Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript: https://www.youtube.com/watch?v=EoYfa6mYOG4
 
 ### Other Learning Resources:
 
