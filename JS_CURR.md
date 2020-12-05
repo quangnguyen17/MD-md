@@ -38,6 +38,7 @@
 - Traversy Media: https://www.youtube.com/user/TechGuyWeb
 - Ben Awad: https://www.youtube.com/user/99baddawg
 - Clément Mihailescu: https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g
+- Kalle Hallden: https://www.youtube.com/c/KalleHallden
 
 #### Books:
 
