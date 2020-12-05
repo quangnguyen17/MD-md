@@ -1,6 +1,6 @@
 # Getting Started Guide into Machine Learning & Artificial Intelligence using Javascript
 
-## Tutorials (From A - Z):
+### Tutorials (From A - Z):
 
 1. Learn Javascript:
 
@@ -16,7 +16,7 @@
 
    - https://www.youtube.com/watch?v=D-XzAeVvMkg
 
-## Other Learning Resources:
+### Other Learning Resources:
 
 #### Cheat Sheets:
 
@@ -25,14 +25,14 @@
 - https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
 - https://s3.amazonaws.com/ir_public/academy/cheat+sheet/tensorflowJS.pdf
 
-#### Articles & Websites:
+#### Official Docs, Articles, Blogs:
 
 - https://www.javascript.com/
 - https://www.tensorflow.org/
 - https://www.tensorflow.org/js/
 - https://www.tensorflow.org/js/tutorials
 
-#### Youtube Channels:
+#### Youtube:
 
 - Fireship: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
 - Traversy Media: https://www.youtube.com/user/TechGuyWeb
