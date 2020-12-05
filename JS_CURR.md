@@ -1,6 +1,6 @@
-# AI & JS
+# Getting Started Guide into Machine Learning & Artificial Intelligence using Javascript
 
-## Tutorials:
+## Tutorials (From A - Z):
 
 1. Learn Javascript:
 
