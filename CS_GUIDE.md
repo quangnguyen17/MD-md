@@ -4,8 +4,8 @@
 
 - The Basic:
 
-  - Language: **Javascript**.
-  - Frameworks: **Node.js**.
+  - Language: **Javascript**
+  - Frameworks: **Node.js**
   - Tutorials:
     1.  Learn JavaScript - Full Course for Beginners: https://www.youtube.com/watch?v=PkZNo7MFNFg
     2.  JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2020]: https://www.youtube.com/watch?v=W6NZfCO5SIk
@@ -15,7 +15,7 @@
 - Machine Learning:
 
   - Language: **Javascript**
-  - Technologies: **TensorFlow.js**, **Node.js**.
+  - Technologies: **TensorFlow.js**, **Node.js**
   - Tutorials:
     1.  TensorFlow.js Quick Start: https://www.youtube.com/watch?v=Y_XM3Bu-4yc
     2.  Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript: https://www.youtube.com/watch?v=EoYfa6mYOG4
@@ -23,7 +23,7 @@
 - Software Engineering:
 
   - Language: **Javascript**
-  - Technologies: **MongoDB**, **Express.js**, **React.js**, **Node.js**, **GraphQL** (optional).
+  - Technologies: **MongoDB**, **Express.js**, **React.js**, **Node.js**, **GraphQL** (optional)
     1.  Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js): https://www.youtube.com/watch?v=7CqJlxBYj-M
     2.  React / GraphQL Course - Build a social media app (MERNG Stack): https://www.youtube.com/watch?v=n1mdAPFq2Os
 
