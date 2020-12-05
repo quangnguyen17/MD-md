@@ -1,16 +1,31 @@
 # Getting Started Guide into Machine Learning & Artificial Intelligence OR Software Engineering
 
-### Tutorials (From A - Z):
+### Let's jump right in!
 
-- Basic:
-   1. Learn JavaScript - Full Course for Beginners: https://www.youtube.com/watch?v=PkZNo7MFNFg
-   2. JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2020]: https://www.youtube.com/watch?v=W6NZfCO5SIk
-   3. Node.js Crash Course: https://www.youtube.com/watch?v=fBNz5xF-Kx4
-   4. Node.js Ultimate Beginner’s Guide in 7 Easy Steps: https://www.youtube.com/watch?v=ENrzD9HAZK4&t=89s
+- The Basic:
+
+  - Language: **Javascript**.
+  - Frameworks: **Node.js**.
+  - Tutorials:
+    1.  Learn JavaScript - Full Course for Beginners: https://www.youtube.com/watch?v=PkZNo7MFNFg
+    2.  JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2020]: https://www.youtube.com/watch?v=W6NZfCO5SIk
+    3.  Node.js Crash Course: https://www.youtube.com/watch?v=fBNz5xF-Kx4
+    4.  Node.js Ultimate Beginner’s Guide in 7 Easy Steps: https://www.youtube.com/watch?v=ENrzD9HAZK4&t=89s
 
 - Machine Learning:
-   1. TensorFlow.js Quick Start: https://www.youtube.com/watch?v=Y_XM3Bu-4yc
-   2. Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript: https://www.youtube.com/watch?v=EoYfa6mYOG4
+
+  - Language: **Javascript**
+  - Technologies: **TensorFlow.js**, **Node.js**.
+  - Tutorials:
+    1.  TensorFlow.js Quick Start: https://www.youtube.com/watch?v=Y_XM3Bu-4yc
+    2.  Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript: https://www.youtube.com/watch?v=EoYfa6mYOG4
+
+- Software Engineering:
+
+  - Language: **Javascript**
+  - Technologies: **MongoDB**, **Express.js**, **React.js**, **Node.js**, **GraphQL** (optional).
+    1.  Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js): https://www.youtube.com/watch?v=7CqJlxBYj-M
+    2.  React / GraphQL Course - Build a social media app (MERNG Stack): https://www.youtube.com/watch?v=n1mdAPFq2Os
 
 ### Other Learning Resources:
 
@@ -27,9 +42,11 @@
 - https://www.tensorflow.org/
 - https://www.tensorflow.org/js/
 - https://www.tensorflow.org/js/tutorials
+- https://www.freeCodeCamp.org
 
 #### Youtube:
 
+- freeCodeCamp: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 - Fireship: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
 - Traversy Media: https://www.youtube.com/user/TechGuyWeb
 - Ben Awad: https://www.youtube.com/user/99baddawg
