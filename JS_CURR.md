@@ -1,4 +1,4 @@
-# Getting Started Guide into Machine Learning & Artificial Intelligence using Javascript
+# Getting Started Guide into Machine Learning & Artificial Intelligence OR Software Engineering
 
 ### Tutorials (From A - Z):
 
@@ -37,6 +37,7 @@
 - Fireship: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
 - Traversy Media: https://www.youtube.com/user/TechGuyWeb
 - Ben Awad: https://www.youtube.com/user/99baddawg
+- Clément Mihailescu: https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g
 
 #### Books:
 
