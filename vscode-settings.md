@@ -2,7 +2,7 @@
 
 - Mac:
 
-```
+```json
 {
   "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
   "workbench.iconTheme": "material-icon-theme",
