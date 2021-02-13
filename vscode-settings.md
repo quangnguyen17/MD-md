@@ -3,6 +3,7 @@
 - `settings.json` file for VSCode.
 
 macOS:
+
 ```json
 {
   "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
@@ -58,7 +59,7 @@ macOS:
 }
 ```
 
-WindowsWSL:
+Windows/WSL:
 
 ```json
 {
@@ -114,7 +115,7 @@ WindowsWSL:
 }
 ```
 
-Linux:
+Linux/Ubuntu/Debian:
 
 ```
 ```
